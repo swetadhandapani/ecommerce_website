@@ -1,0 +1,117 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 1000.00,
+        "description": "5G capable smartphone with 128GB storage and 12MP camera",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews":15,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD,Bluetooth Calling Smart Watch",
+        "price": 2500,
+        "description": "Minix watches are exclusively designed ",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews":5,
+        "reviews": []
+    },
+    {
+        "name": "MacBook Pro 13-inch (M1) laptop",
+        "price": 950,
+        "description": "Apple's MacBook Pro with the powerful M1 chip, 8GB RAM, and 256GB SSD. ",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": 8,
+        "numOfReviews":200,
+        "reviews": []
+    },
+    {
+        "name": "Dell XPS 13 (9310) laptop",
+        "price": 349,
+        "description": "Dell's premium XPS 13 with a 13.4-inch 4K UHD display, Intel Core i7, 16GB RAM, and 512GB SSD.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Dell Store",
+        "stock": 5,
+        "numOfReviews": 150,
+        "reviews": []
+    },
+    {
+        "name": "HP Spectre x360 14 laptop",
+        "price": 675,
+        "description": "HP's Spectre x360 14 with a 13.5-inch OLED display, Intel Core i7, 16GB RAM, and 512GB SSD.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "HP Store",
+        "stock": 10,
+        "numOfReviews": 180,
+        "reviews": []
+    },
+    {
+        "name": "Organic Mixed Nuts, 500g",
+        "price": 800,
+        "description": "A blend of organic almonds, walnuts, cashews, and pistachios. ",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Nature's Basket",
+        "stock": 15,
+        "numOfReviews":23,
+        "reviews": []
+    },
+    {
+        "name": "Atomic Habits by James Clear",
+        "price": 500,
+        "description": "A guide to building good habits and breaking bad ones, with practical strategies.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 7,
+        "numOfReviews":48,
+        "reviews": []
+    }
+]
