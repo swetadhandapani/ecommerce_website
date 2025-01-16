@@ -49,7 +49,7 @@ RESTful APIs, ensuring smooth data flow and dynamic updates.
 5\. **Security Implementation:** Secured data with JWT authentication,
 HTTPS, and Stripe payment gateway integration.
 
-![](vertopal_128fb99201f94d34af1b45c14c3f895d/media/image1.png)
+![](image1.png)
 
 Fig.1. Shopping Cart
 
