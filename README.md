@@ -97,9 +97,6 @@ Controllers handle business logic:
 -   **User Controller:** Functions like \`registerUser()\` for new
     accounts, \`loginUser()\` for authentication.
 
-```{=html}
-<!-- -->
-```
 -   **Product Controller:** Includes \`getProducts()\` for product
     retrieval, \`getProductById()\` for details.
 
