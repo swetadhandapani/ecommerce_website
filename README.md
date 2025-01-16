@@ -141,7 +141,7 @@ with:
 
 2\. Secure user authentication and checkout processes.
 
-![](vertopal_128fb99201f94d34af1b45c14c3f895d/media/image2.png)
+![](image2.png)
 
 Fig.2. Secure Payment Gateway Integration
 
@@ -149,13 +149,13 @@ Fig.2. Secure Payment Gateway Integration
 
 4\. An admin panel for managing products, orders, and analytics.
 
-![](vertopal_128fb99201f94d34af1b45c14c3f895d/media/image3.png)
+![](image3.png)
 
-![](vertopal_128fb99201f94d34af1b45c14c3f895d/media/image4.png)
+![](image4.png)
 
-![](vertopal_128fb99201f94d34af1b45c14c3f895d/media/image5.png)
+![](image5.png)
 
-![](vertopal_128fb99201f94d34af1b45c14c3f895d/media/image6.png)
+![](image6.png)
 
 Fig.3. Catalogs / Inventory Lists
 
